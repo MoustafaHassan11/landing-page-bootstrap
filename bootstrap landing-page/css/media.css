@@ -1,0 +1,32 @@
+/* break points */
+/* @media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+} */
+/* 2000 */
+
+/* sm */
+@media screen and (min-width: 640px) {
+}
+
+/* md */
+@media screen and (min-width: 768px) {
+}
+
+/* lg */
+@media screen and (min-width: 1024px) {
+}
+
+/* xl */
+@media screen and (min-width: 1280px) {
+}
+
+/* xxl */
+@media screen and (min-width: 1536px) {
+}
